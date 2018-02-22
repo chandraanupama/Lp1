@@ -19,7 +19,9 @@ Business owner & Marketer
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.vitsupp.com/wp-content/uploads/2017/04/VITSUPP-LIFELONG-FINAL4-500x500.jpg)
+[Link](url) 
+
+![Image of Yaktocat](https://octodex.github.com/images/poptocat_v2.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
