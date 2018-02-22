@@ -1,16 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Anupama's page
 
-You can use the [editor on GitHub](https://github.com/chandraanupama/Lp1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi I am anupama & this is my first project on github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+Business owner & Marketer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+```
 # Header 1
 ## Header 2
 ### Header 3
@@ -23,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.vitsupp.com/wp-content/uploads/2017/04/VITSUPP-LIFELONG-FINAL4-500x500.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
